@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Zrain Image Tools",
+    "slug": "zrain-image-tools",
+    "category": "Online Services",
+    "description": "Browser image editing, compression, AI background removal, OCR, previews, conversion, cropping, watermarking and art. The AI model downloads on first use; images remain on your device.",
+    "status": "Draft",
+    "websiteUrl": null,
+    "logoAsset": "zrain-logo.webp",
+    "toolCount": 18,
+    "note": "Publish each website to its own real address, then add the verified URL to Zrain Ecosystem admin. Draft until live functionality is checked."
+  },
+  {
+    "name": "Zrain PDF Tools",
+    "slug": "zrain-pdf-tools",
+    "category": "Online Services",
+    "description": "Free, browser-first tools for merging, splitting, rotating, cropping, rearranging, extracting text and rendering PDF pages, as well as adding text and watermarks. Cropping is not redaction; existing PDF text is not directly rewritten. Some features fetch third-party libraries on first use.",
+    "status": "Draft",
+    "websiteUrl": null,
+    "logoAsset": "zrain-logo.webp",
+    "toolCount": 12,
+    "note": "Publish each website to its own real address, then add the verified URL to Zrain Ecosystem admin. Draft until live functionality is checked."
+  },
+  {
+    "name": "Zrain Document Tools",
+    "slug": "zrain-document-tools",
+    "category": "Online Services",
+    "description": "Convert supported PDF, DOCX and image formats, and clean CSV data. Preview converted files where supported. Complex document layouts may differ.",
+    "status": "Draft",
+    "websiteUrl": null,
+    "logoAsset": "zrain-logo.webp",
+    "toolCount": 2,
+    "note": "Publish each website to its own real address, then add the verified URL to Zrain Ecosystem admin. Draft until live functionality is checked."
+  },
+  {
+    "name": "Zrain Developer Tools",
+    "slug": "zrain-developer-tools",
+    "category": "Developer Tools",
+    "description": "Free browser utilities for JSON, Base64, local JWT decoding, SHA checksums, UUID generation, CSS shadow previews, Markdown, QR codes, passwords and UTM links. JWT decoding does not verify signatures.",
+    "status": "Draft",
+    "websiteUrl": null,
+    "logoAsset": "zrain-logo.webp",
+    "toolCount": 11,
+    "note": "Publish each website to its own real address, then add the verified URL to Zrain Ecosystem admin. Draft until live functionality is checked."
+  },
+  {
+    "name": "Zrain Productivity Tools",
+    "slug": "zrain-productivity-tools",
+    "category": "Online Services",
+    "description": "Simple invoices, text utilities and a basic teleprompter. No account needed. The teleprompter does not support remote control, recordings or voice-follow.",
+    "status": "Draft",
+    "websiteUrl": null,
+    "logoAsset": "zrain-logo.webp",
+    "toolCount": 3,
+    "note": "Publish each website to its own real address, then add the verified URL to Zrain Ecosystem admin. Draft until live functionality is checked."
+  }
+]

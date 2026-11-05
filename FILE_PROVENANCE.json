@@ -1,0 +1,10 @@
+﻿{
+    "developer":  "Zrain",
+    "release":  "2.4.0",
+    "created":  "2026-11-05",
+    "source":  "Approved v2.3.0 source with only four user-requested PDF/File Converter corrections",
+    "tools":  46,
+    "families":  5,
+    "zrainUiReferenceCommit":  "a109401fa591afa9f66479fa8d86f1ed1679d70b",
+    "status":  "owner-confirmed five Cloudflare Pages deployments; 87/87 automated tests; six route checks OK; full device QA not implied"
+}

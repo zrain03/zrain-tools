@@ -1,0 +1,88 @@
+[
+  {
+    "product": "Zrain Image Tools",
+    "slug": "zrain-image-tools",
+    "description": "Convert, edit and create images with clear previews.",
+    "toolCount": 18,
+    "tools": [
+      "watermark",
+      "background-remover",
+      "collage-maker",
+      "color-inspector",
+      "image-compare",
+      "image-compressor",
+      "text-extractor",
+      "image-converter",
+      "image-cropper",
+      "image-enhancer",
+      "image-inspector",
+      "image-to-ascii-art",
+      "image-to-binary-art",
+      "image-to-block-art",
+      "emoji-art",
+      "pixel-art",
+      "image-resizer",
+      "image-rotator"
+    ]
+  },
+  {
+    "product": "Zrain PDF Tools",
+    "slug": "zrain-pdf-tools",
+    "description": "Merge, split, arrange and convert PDF documents.",
+    "toolCount": 12,
+    "tools": [
+      "pdf-editor",
+      "crop-pdf",
+      "jpg-to-pdf",
+      "merge-pdf",
+      "pdf-page-numbers",
+      "pdf-to-image",
+      "pdf-to-text",
+      "pdf-watermark",
+      "pdf-organizer",
+      "remove-pdf-pages",
+      "rotate-pdf",
+      "split-pdf"
+    ]
+  },
+  {
+    "product": "Zrain Document Tools",
+    "slug": "zrain-document-tools",
+    "description": "Convert and clean files with clear output previews.",
+    "toolCount": 2,
+    "tools": [
+      "csv-cleaner",
+      "file-converter"
+    ]
+  },
+  {
+    "product": "Zrain Developer Tools",
+    "slug": "zrain-developer-tools",
+    "description": "Small helpers for code, URLs and content.",
+    "toolCount": 11,
+    "tools": [
+      "base64-tool",
+      "css-shadow-generator",
+      "json-studio",
+      "jwt-decoder",
+      "markdown-editor",
+      "password-generator",
+      "qr-generator",
+      "hash-generator",
+      "text-counter",
+      "utm-builder",
+      "uuid-generator"
+    ]
+  },
+  {
+    "product": "Zrain Productivity Tools",
+    "slug": "zrain-productivity-tools",
+    "description": "Invoices, text tools and speaking assistance.",
+    "toolCount": 3,
+    "tools": [
+      "invoice-generator",
+      "teleprompter",
+      "text-tools"
+    ]
+  }
+]

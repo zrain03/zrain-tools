@@ -1,0 +1,16 @@
+{
+  "name": "zrain-tools-v2",
+  "private": true,
+  "version": "2.4.0",
+  "type": "module",
+  "description": "Zrain Tools: 46 clear mobile-first utilities across five independently deployed product families",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "start": "node src/serve.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "npm run build && npm test"
+  },
+  "engines": {
+    "node": ">=20.11"
+  }
+}

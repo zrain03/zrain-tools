@@ -1,0 +1,11 @@
+# Local credentials and operating-system files must never be committed.
+node_modules/
+.wrangler/
+.dev.vars
+.env
+.env.*
+!.env.example
+.npmrc
+*.log
+.DS_Store
+Thumbs.db

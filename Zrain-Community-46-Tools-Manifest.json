@@ -1,0 +1,324 @@
+[
+  {
+    "id": "watermark",
+    "name": "Add Image Watermark",
+    "kind": "tool",
+    "url": "https://zrain-image-tools.pages.dev/watermark/",
+    "family": "zrain-image-tools"
+  },
+  {
+    "id": "background-remover",
+    "name": "Background Remover",
+    "kind": "tool",
+    "url": "https://zrain-image-tools.pages.dev/background-remover/",
+    "family": "zrain-image-tools"
+  },
+  {
+    "id": "collage-maker",
+    "name": "Collage Maker",
+    "kind": "tool",
+    "url": "https://zrain-image-tools.pages.dev/collage-maker/",
+    "family": "zrain-image-tools"
+  },
+  {
+    "id": "color-inspector",
+    "name": "Color Picker & Inspector",
+    "kind": "tool",
+    "url": "https://zrain-image-tools.pages.dev/color-inspector/",
+    "family": "zrain-image-tools"
+  },
+  {
+    "id": "image-compare",
+    "name": "Compare Images",
+    "kind": "tool",
+    "url": "https://zrain-image-tools.pages.dev/image-compare/",
+    "family": "zrain-image-tools"
+  },
+  {
+    "id": "image-compressor",
+    "name": "Compress Image",
+    "kind": "tool",
+    "url": "https://zrain-image-tools.pages.dev/image-compressor/",
+    "family": "zrain-image-tools"
+  },
+  {
+    "id": "text-extractor",
+    "name": "Extract Text from Image",
+    "kind": "tool",
+    "url": "https://zrain-image-tools.pages.dev/text-extractor/",
+    "family": "zrain-image-tools"
+  },
+  {
+    "id": "image-converter",
+    "name": "Image Converter",
+    "kind": "tool",
+    "url": "https://zrain-image-tools.pages.dev/image-converter/",
+    "family": "zrain-image-tools"
+  },
+  {
+    "id": "image-cropper",
+    "name": "Image Cropper",
+    "kind": "tool",
+    "url": "https://zrain-image-tools.pages.dev/image-cropper/",
+    "family": "zrain-image-tools"
+  },
+  {
+    "id": "image-enhancer",
+    "name": "Image Enhancer",
+    "kind": "tool",
+    "url": "https://zrain-image-tools.pages.dev/image-enhancer/",
+    "family": "zrain-image-tools"
+  },
+  {
+    "id": "image-inspector",
+    "name": "Image Metadata Viewer",
+    "kind": "tool",
+    "url": "https://zrain-image-tools.pages.dev/image-inspector/",
+    "family": "zrain-image-tools"
+  },
+  {
+    "id": "image-to-ascii-art",
+    "name": "Image to ASCII Art",
+    "kind": "tool",
+    "url": "https://zrain-image-tools.pages.dev/image-to-ascii-art/",
+    "family": "zrain-image-tools"
+  },
+  {
+    "id": "image-to-binary-art",
+    "name": "Image to Binary Art",
+    "kind": "tool",
+    "url": "https://zrain-image-tools.pages.dev/image-to-binary-art/",
+    "family": "zrain-image-tools"
+  },
+  {
+    "id": "image-to-block-art",
+    "name": "Image to Block Art",
+    "kind": "tool",
+    "url": "https://zrain-image-tools.pages.dev/image-to-block-art/",
+    "family": "zrain-image-tools"
+  },
+  {
+    "id": "emoji-art",
+    "name": "Image to Emoji Art",
+    "kind": "tool",
+    "url": "https://zrain-image-tools.pages.dev/emoji-art/",
+    "family": "zrain-image-tools"
+  },
+  {
+    "id": "pixel-art",
+    "name": "Image to Pixel Art",
+    "kind": "tool",
+    "url": "https://zrain-image-tools.pages.dev/pixel-art/",
+    "family": "zrain-image-tools"
+  },
+  {
+    "id": "image-resizer",
+    "name": "Resize Image",
+    "kind": "tool",
+    "url": "https://zrain-image-tools.pages.dev/image-resizer/",
+    "family": "zrain-image-tools"
+  },
+  {
+    "id": "image-rotator",
+    "name": "Rotate & Flip Image",
+    "kind": "tool",
+    "url": "https://zrain-image-tools.pages.dev/image-rotator/",
+    "family": "zrain-image-tools"
+  },
+  {
+    "id": "pdf-editor",
+    "name": "Add Text to PDF",
+    "kind": "tool",
+    "url": "https://zrain-pdf-tools.pages.dev/pdf-editor/",
+    "family": "zrain-pdf-tools"
+  },
+  {
+    "id": "crop-pdf",
+    "name": "Crop PDF",
+    "kind": "tool",
+    "url": "https://zrain-pdf-tools.pages.dev/crop-pdf/",
+    "family": "zrain-pdf-tools"
+  },
+  {
+    "id": "jpg-to-pdf",
+    "name": "JPG & PNG to PDF",
+    "kind": "tool",
+    "url": "https://zrain-pdf-tools.pages.dev/jpg-to-pdf/",
+    "family": "zrain-pdf-tools"
+  },
+  {
+    "id": "merge-pdf",
+    "name": "Merge PDF",
+    "kind": "tool",
+    "url": "https://zrain-pdf-tools.pages.dev/merge-pdf/",
+    "family": "zrain-pdf-tools"
+  },
+  {
+    "id": "pdf-page-numbers",
+    "name": "PDF Page Numbers",
+    "kind": "tool",
+    "url": "https://zrain-pdf-tools.pages.dev/pdf-page-numbers/",
+    "family": "zrain-pdf-tools"
+  },
+  {
+    "id": "pdf-to-image",
+    "name": "PDF to Images",
+    "kind": "tool",
+    "url": "https://zrain-pdf-tools.pages.dev/pdf-to-image/",
+    "family": "zrain-pdf-tools"
+  },
+  {
+    "id": "pdf-to-text",
+    "name": "PDF to Text",
+    "kind": "tool",
+    "url": "https://zrain-pdf-tools.pages.dev/pdf-to-text/",
+    "family": "zrain-pdf-tools"
+  },
+  {
+    "id": "pdf-watermark",
+    "name": "PDF Watermark",
+    "kind": "tool",
+    "url": "https://zrain-pdf-tools.pages.dev/pdf-watermark/",
+    "family": "zrain-pdf-tools"
+  },
+  {
+    "id": "pdf-organizer",
+    "name": "Rearrange PDF Pages",
+    "kind": "tool",
+    "url": "https://zrain-pdf-tools.pages.dev/pdf-organizer/",
+    "family": "zrain-pdf-tools"
+  },
+  {
+    "id": "remove-pdf-pages",
+    "name": "Remove PDF Pages",
+    "kind": "tool",
+    "url": "https://zrain-pdf-tools.pages.dev/remove-pdf-pages/",
+    "family": "zrain-pdf-tools"
+  },
+  {
+    "id": "rotate-pdf",
+    "name": "Rotate PDF",
+    "kind": "tool",
+    "url": "https://zrain-pdf-tools.pages.dev/rotate-pdf/",
+    "family": "zrain-pdf-tools"
+  },
+  {
+    "id": "split-pdf",
+    "name": "Split PDF",
+    "kind": "tool",
+    "url": "https://zrain-pdf-tools.pages.dev/split-pdf/",
+    "family": "zrain-pdf-tools"
+  },
+  {
+    "id": "csv-cleaner",
+    "name": "CSV Cleaner",
+    "kind": "tool",
+    "url": "https://zrain-document-tools.pages.dev/csv-cleaner/",
+    "family": "zrain-document-tools"
+  },
+  {
+    "id": "file-converter",
+    "name": "File Converter",
+    "kind": "tool",
+    "url": "https://zrain-document-tools.pages.dev/file-converter/",
+    "family": "zrain-document-tools"
+  },
+  {
+    "id": "base64-tool",
+    "name": "Base64 Converter",
+    "kind": "tool",
+    "url": "https://zrain-developer-tools.pages.dev/base64-tool/",
+    "family": "zrain-developer-tools"
+  },
+  {
+    "id": "css-shadow-generator",
+    "name": "CSS Shadow Generator",
+    "kind": "tool",
+    "url": "https://zrain-developer-tools.pages.dev/css-shadow-generator/",
+    "family": "zrain-developer-tools"
+  },
+  {
+    "id": "json-studio",
+    "name": "JSON Formatter & Validator",
+    "kind": "tool",
+    "url": "https://zrain-developer-tools.pages.dev/json-studio/",
+    "family": "zrain-developer-tools"
+  },
+  {
+    "id": "jwt-decoder",
+    "name": "JWT Decoder",
+    "kind": "tool",
+    "url": "https://zrain-developer-tools.pages.dev/jwt-decoder/",
+    "family": "zrain-developer-tools"
+  },
+  {
+    "id": "markdown-editor",
+    "name": "Markdown Editor",
+    "kind": "tool",
+    "url": "https://zrain-developer-tools.pages.dev/markdown-editor/",
+    "family": "zrain-developer-tools"
+  },
+  {
+    "id": "password-generator",
+    "name": "Password Generator",
+    "kind": "tool",
+    "url": "https://zrain-developer-tools.pages.dev/password-generator/",
+    "family": "zrain-developer-tools"
+  },
+  {
+    "id": "qr-generator",
+    "name": "QR Generator",
+    "kind": "tool",
+    "url": "https://zrain-developer-tools.pages.dev/qr-generator/",
+    "family": "zrain-developer-tools"
+  },
+  {
+    "id": "hash-generator",
+    "name": "SHA Hash Generator",
+    "kind": "tool",
+    "url": "https://zrain-developer-tools.pages.dev/hash-generator/",
+    "family": "zrain-developer-tools"
+  },
+  {
+    "id": "text-counter",
+    "name": "Text Counter",
+    "kind": "tool",
+    "url": "https://zrain-developer-tools.pages.dev/text-counter/",
+    "family": "zrain-developer-tools"
+  },
+  {
+    "id": "utm-builder",
+    "name": "UTM Builder",
+    "kind": "tool",
+    "url": "https://zrain-developer-tools.pages.dev/utm-builder/",
+    "family": "zrain-developer-tools"
+  },
+  {
+    "id": "uuid-generator",
+    "name": "UUID Generator",
+    "kind": "tool",
+    "url": "https://zrain-developer-tools.pages.dev/uuid-generator/",
+    "family": "zrain-developer-tools"
+  },
+  {
+    "id": "invoice-generator",
+    "name": "Invoice Generator",
+    "kind": "tool",
+    "url": "https://zrain-productivity-tools.pages.dev/invoice-generator/",
+    "family": "zrain-productivity-tools"
+  },
+  {
+    "id": "teleprompter",
+    "name": "Teleprompter",
+    "kind": "tool",
+    "url": "https://zrain-productivity-tools.pages.dev/teleprompter/",
+    "family": "zrain-productivity-tools"
+  },
+  {
+    "id": "text-tools",
+    "name": "Text Tools",
+    "kind": "tool",
+    "url": "https://zrain-productivity-tools.pages.dev/text-tools/",
+    "family": "zrain-productivity-tools"
+  }
+]
